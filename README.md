@@ -7,11 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌱 I’m currently learning **Database and TypeScript**
+
 - 👨‍💻 All of my projects are available at [https://ferdie-nodalo.vercel.app/#home](https://ferdie-nodalo.vercel.app/#home)
 
-- 📫 How to reach me **ferdienodalo7**
+- 💬 Ask me about **HTML and CSS**
+
+- 📫 How to reach me **ferdienodalo7@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hlg-_-9VuBwzB4f3YtGkshuYfkRc0KqX/view](https://drive.google.com/file/d/1hlg-_-9VuBwzB4f3YtGkshuYfkRc0KqX/view)
+
+- ⚡ Fun fact **I am a driver...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

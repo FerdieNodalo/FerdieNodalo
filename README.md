@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ferdie Nodalo</h1>
-<h3 align="center">A Full-Stack Web Developer</h3>
 
 ![I am a Full-Stack Web Developer](https://github.com/FerdieNodalo/FerdieNodalo/blob/main/Blue%20Gradient%20Product%20Manager%20LinkedIn%20Article%20Cover%20Image.jpg)
 

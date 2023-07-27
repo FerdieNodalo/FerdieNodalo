@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://ferdie-nodalo.vercel.app/#home](https://ferdie-nodalo.vercel.app/#home)
 
-- 📫 How to reach me **ferdienodalo7**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hlg-_-9VuBwzB4f3YtGkshuYfkRc0KqX/view](https://drive.google.com/file/d/1hlg-_-9VuBwzB4f3YtGkshuYfkRc0KqX/view)
 
 <h3 align="left">Connect with me:</h3>

@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ferdie Nodalo
+# Hi there 👋, my name is Ferdie Nodalo
 #### I am a Full-Stack Web Developer
 ![I am a Full-Stack Web Developer](https://github.com/FerdieNodalo/FerdieNodalo/blob/main/Blue%20Gradient%20Product%20Manager%20LinkedIn%20Article%20Cover%20Image.jpg)
 

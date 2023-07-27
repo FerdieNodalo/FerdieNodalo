@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ferdienodalo7@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1hlg-_-9VuBwzB4f3YtGkshuYfkRc0KqX/view
+- 📄 Know about my experiences https://drive.google.com/file/d/1hlg-_-9VuBwzB4f3YtGkshuYfkRc0KqX/view?usp=sharing
 
 - ⚡ Fun fact **I am a driver...**
 

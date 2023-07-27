@@ -4,9 +4,9 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills:  HTML / CSS / Bootstrap / JavaScript / jQuery / NodeJS / ExpressJS / ReactJS / MongoDB
+Skills:
+* angular azure babel blender bootstrap chartjs csharp css3 docker dotnet express figma firebase git graphql gulp heroku html5 illustrator javascript jenkins jest kubernetes linux mocha mongodb mysql nextjs nginx nodejs oracle photoshop postgresql postman pug puppeteer python react redux sass selenium sqlite tailwind typescript unity webpack xd
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FerdieNodalo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Ferdie Nodalo)  
 

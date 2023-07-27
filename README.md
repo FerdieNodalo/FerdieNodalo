@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Database and TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://ferdie-nodalo.vercel.app/#home](https://ferdie-nodalo.vercel.app/#home)
+- 👨‍💻 All of my projects are available at [https://ferdie-nodalo.vercel.app/#home](https://ferdie-nodalo.vercel.app/)
 
 - 💬 Ask me about **HTML and CSS**
 
@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ferdie nodalo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferdie nodalo" height="30" width="40" /></a>
-<a href="https://fb.com/ferdie nodalo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ferdie nodalo" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ferdienodalo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ferdienodalo/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/ferdie nodalo](https://www.linkedin.com/in/ferdie-nodalo-38a092270/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferdie nodalo" height="30" width="40" /></a>
+<a href="[https://fb.com/ferdie nodalo](https://www.facebook.com/kafrederick.nodalo/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ferdie nodalo" height="30" width="40" /></a>
+<a href="[https://instagram.com/https://www.instagram.com/ferdienodalo/](https://www.instagram.com/ferdienodalo/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ferdienodalo/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
